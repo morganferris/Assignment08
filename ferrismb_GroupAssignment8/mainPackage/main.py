@@ -1,3 +1,22 @@
+#main.py
+#Name: Morgan Ferris, Max Schiller, Riley Kinkade
+# Email: schillmx@mail.uc.edu, ferrismb@mail.uc.edu, kinkadrj@mail.uc.edu
+# Assignment 08
+# Due Date: March 28
+#Course: IS4010
+# Semester/Year: Spring 2024
+# Brief Description of this assignment: This assignment shows our ability to connect to SQL server and implement the information into our own code
+# Brief description of this module: This module shows all the code we created to demonstrate our knowledge of the SQl server
+# Citations: Bill. Nicholson's brain
+# Anything else thats relevant: Go Reds
+
+
+
+
+
+
+
+
 import pyodbc
 
 conn = pyodbc.connect('Driver={SQL Server};'
